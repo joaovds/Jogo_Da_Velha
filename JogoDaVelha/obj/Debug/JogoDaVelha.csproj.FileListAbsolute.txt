@@ -1,0 +1,10 @@
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\jv782\OneDrive\Área de Trabalho\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.frmPrincipal.resources
